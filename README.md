@@ -17,7 +17,7 @@ You can reach out to me using the links below:
 ## Table of contents
 
 ### Python
-1. [Rental Properties CRUD Catalog with SQLAlchemy, FastAPI, Streamlit and AWS Deploy](#rental-properties-crud-catalog-with-sqlalchemy-fastapi-streamlit-and-aws-deploy) 
+1. [Retail application CRUD Catalog with SQLAlchemy, FastAPI, Streamlit and Docker](#crud-application) 
 2. [Orchestrating an ETL with Airflow - From Google Drive to PostgreSQL](#orchestrating-an-etl-with-airflow---from-google-drive-to-postgresql)
 3. [Web crawler to extract data from property websites using noSQL databases - Redis and MongoDB](#web-crawler-to-extract-data-from-property-websites-using-nosql-databases---redis-and-mongodb)
 4. [Excel Schema Validator with Pydantic and Streamlit](#excel-schema-validator-with-pydantic-and-streamlit)
