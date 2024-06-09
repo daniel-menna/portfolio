@@ -1,10 +1,10 @@
 # Hello! I'm Daniel :wave:
 
-Welcome to my portfolio repository!
+Seja muito bem-vindo ao meu portfólio!
 
-Here, I showcase all my public projects. Feel free to explore and get in touch if you have any questions. 
+Aqui, eu apresento todos os meus projetos públicos. Sinta-se à vontade para explorar e entrar em contato se tiver alguma dúvida.
 
-You can reach out to me using the links below:
+Você pode me contatar usando os links abaixo:
 
 <a href="mailto:danielmenna@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-danielmenna@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
@@ -14,16 +14,17 @@ You can reach out to me using the links below:
 </a>
 
 
-## Table of contents
+## Lista de Projetos
 
 ### Python
 1. [Retail application CRUD Catalog with SQLAlchemy, FastAPI, Streamlit and Docker](https://github.com/daniel-menna/crud-application)
 2. [Renewable Energy Exploratory Data Analysis utilizing Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/sustainable_energy_data_analysis)
+3. [Análise de Turnover utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/Analise-de-Turnover)
 
 ### SQL
 1. [Analytic Report with SQL - Northwind database](https://github.com/daniel-menna/northwind_sql_analysis)
 
 ### Data Visualization
-1. [Bank's Customer Classification - Churn](https://github.com/daniel-menna/customer_analysis)
+1. [Classificação de clientes de uma Fintech - Churn](https://github.com/daniel-menna/customer_analysis)
 
 -------------------------------------------------------------------------------
