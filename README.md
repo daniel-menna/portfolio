@@ -1,6 +1,8 @@
-# Hello! I'm Daniel :wave:
+# Olá! Eu sou Daniel Menna :wave:
 
 Seja muito bem-vindo ao meu portfólio!
+
+Sou formado em Engenharia de Produção pela UFRGS e MBA em Gestão de Negócios pela UNISINOS. Além de um MBA em Digital Business pela USP-Esalq. Atuo na área de tecnologia há mais de 15 anos, tendo trabalhado com Análise de Dados e Gestão de Projetos em empresas como: Ticket Log, Lojas Renner, Getnet e Thoughtworks.
 
 Aqui, eu apresento todos os meus projetos públicos. Sinta-se à vontade para explorar e entrar em contato se tiver alguma dúvida.
 
