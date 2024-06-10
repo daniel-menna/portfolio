@@ -17,7 +17,7 @@ Você pode me contatar usando os links abaixo:
 ## Lista de Projetos
 
 ### Python
-1. [Retail application CRUD Catalog with SQLAlchemy, FastAPI, Streamlit and Docker](https://github.com/daniel-menna/crud-application)
+1. [CRUD para gestão de produtos em um E-commerce com SQLAlchemy, FastAPI, Streamlit e Docker](https://github.com/daniel-menna/crud-application)
 2. [Renewable Energy Exploratory Data Analysis utilizing Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/sustainable_energy_data_analysis)
 3. [Análise de Turnover utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/Analise-de-Turnover)
 
