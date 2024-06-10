@@ -26,7 +26,7 @@ Você pode me contatar usando os links abaixo:
 ### SQL
 1. [Analytic Report with SQL - Northwind database](https://github.com/daniel-menna/northwind_sql_analysis)
 
-### Data Visualization
+### Visualização de Dados
 1. [Classificação de clientes de uma Fintech - Churn](https://github.com/daniel-menna/customer_analysis)
 
 -------------------------------------------------------------------------------
