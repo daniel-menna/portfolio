@@ -20,8 +20,9 @@ Você pode me contatar usando os links abaixo:
 
 ### Python
 1. [CRUD para gestão de produtos em um E-commerce com SQLAlchemy, FastAPI, Streamlit e Docker](https://github.com/daniel-menna/crud-application)
-2. [Análise Exploratória de Dados sobre adoção de energias renováveis utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/sustainable_energy_data_analysis)
-3. [Análise de Turnover utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/Analise-de-Turnover)
+2. [Preparação de Dados e Análise Exploratório para uma empresa de callcenter utilizando SweetViz e Ydata-Profiling](https://github.com/daniel-menna/wip_analise_performance_callcenter)
+3. [Análise Exploratória de Dados sobre adoção de energias renováveis utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/sustainable_energy_data_analysis)
+4. [Análise de Turnover utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/Analise-de-Turnover)
 
 ### SQL
 1. [Analytic Report with SQL - Northwind database](https://github.com/daniel-menna/northwind_sql_analysis)
