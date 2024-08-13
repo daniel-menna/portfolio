@@ -1,12 +1,12 @@
 # Olá! Eu sou Daniel Menna :wave:
 
-Seja muito bem-vindo ao meu portfólio!
+Welcome to my portfolio!
 
-Sou formado em Engenharia de Produção pela UFRGS e MBA em Gestão de Negócios pela UNISINOS. Além de um MBA em Digital Business pela USP-Esalq. Atuo na área de tecnologia há mais de 15 anos, tendo trabalhado com Análise de Dados e Gestão de Projetos em empresas como: Ticket Log, Lojas Renner, Getnet e Thoughtworks.
+I hold a degree in Production Engineering from UFRGS and an MBA in Business Management from UNISINOS, as well as an MBA in Digital Business from USP-Esalq. I have been working in the technology field for over 15 years, with experience in Data Analysis and Project Management at companies such as Ticket Log, Lojas Renner, Getnet, and Thoughtworks.
 
-Aqui, eu apresento todos os meus projetos públicos. Sinta-se à vontade para explorar e entrar em contato se tiver alguma dúvida.
+Here, I present all of my public projects. Feel free to explore and reach out if you have any questions.
 
-Você pode me contatar usando os links abaixo:
+You can contact me using the links below:
 
 <a href="mailto:danielmenna@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-danielmenna@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
@@ -16,18 +16,17 @@ Você pode me contatar usando os links abaixo:
 </a>
 
 
-## Lista de Projetos
+## Project List
+
+### Terraform
+1. [Testing ML models accuracy using Infraestructure automation with Terraform](https://github.com/daniel-menna/IaC_Using_AWS_Terraform)
 
 ### Python
-1. [CRUD para gestão de produtos em um E-commerce com SQLAlchemy, FastAPI, Streamlit e Docker](https://github.com/daniel-menna/crud-application)
-2. [Preparação de Dados e Análise Exploratório para uma empresa de callcenter utilizando SweetViz e Ydata-Profiling](https://github.com/daniel-menna/wip_analise_performance_callcenter)
-3. [Análise Exploratória de Dados sobre adoção de energias renováveis utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/sustainable_energy_data_analysis)
-4. [Análise de Turnover utilizando Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/Analise-de-Turnover)
+1. [Product management CRUD for an E-commerce with SQLAlchemy, FastAPI, Streamlit e Docker](https://github.com/daniel-menna/crud-application)
+2. [Data preparation for an Exploratory Data Analysis with SweetViz e Ydata-Profiling](https://github.com/daniel-menna/wip_analise_performance_callcenter)
+3. [Turnover Analysis utilizing Pandas, Matplotlib and Seaborn](https://github.com/daniel-menna/Analise-de-Turnover)
 
 ### SQL
 1. [Analytic Report with SQL - Northwind database](https://github.com/daniel-menna/northwind_sql_analysis)
-
-### Visualização de Dados
-1. [Classificação de clientes de uma Fintech - Churn](https://github.com/daniel-menna/customer_analysis)
 
 -------------------------------------------------------------------------------
