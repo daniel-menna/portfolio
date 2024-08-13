@@ -1,4 +1,4 @@
-# Olá! Eu sou Daniel Menna :wave:
+# Hi! I'm Daniel Menna :wave:
 
 Welcome to my portfolio!
 
